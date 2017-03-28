@@ -1,8 +1,0 @@
-prefix=/home/alexander/robohockey/install
-
-Name: tuw_gazebo_plugins
-Description: Description of tuw_gazebo_plugins
-Version: 0.0.0
-Cflags: -I/home/alexander/robohockey/install/include
-Libs: -L/home/alexander/robohockey/install/lib -ltuw_gazebo_ros_utils -ltuw_gazebo_ros_diff_drive -ltuw_gazebo_ros_laser -ltuw_gazebo_ros_gpu_laser -ltuw_gazebo_ros_imu9dof
-Requires: std_msgs roscpp rospy nodelet urdf tf tf2_ros dynamic_reconfigure gazebo_msgs

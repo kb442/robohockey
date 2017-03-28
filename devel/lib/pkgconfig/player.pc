@@ -1,8 +1,0 @@
-prefix=/home/alexander/robohockey/devel
-
-Name: player
-Description: Description of player
-Version: 0.0.0
-Cflags: 
-Libs: -L/home/alexander/robohockey/devel/lib 
-Requires: 
