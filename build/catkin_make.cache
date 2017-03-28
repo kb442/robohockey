@@ -1,0 +1,2 @@
+game/hockeysimulator:game/referee:game/tuw_gazebo_models:game/tuw_gazebo_plugins:player
+-DCATKIN_DEVEL_PREFIX=/home/alexander/robohockey/devel -DCMAKE_INSTALL_PREFIX=/home/alexander/robohockey/install -G Unix Makefiles

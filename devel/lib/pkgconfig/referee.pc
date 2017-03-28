@@ -1,0 +1,8 @@
+prefix=/home/alexander/robohockey/devel
+
+Name: referee
+Description: Description of referee
+Version: 0.1.0
+Cflags: -I/home/alexander/robohockey/devel/include -I/home/alexander/robohockey/src/game/referee/include
+Libs: -L/home/alexander/robohockey/devel/lib 
+Requires: message_runtime std_msgs geometry_msgs

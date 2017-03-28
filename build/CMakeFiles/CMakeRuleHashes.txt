@@ -1,0 +1,27 @@
+# Hashes of file build rules.
+a616e0a30ac585d725ff22c5dd8818d9 /home/alexander/robohockey/devel/include/referee/SendColor.h
+f8e5d45e7080cf943a9bf74687e38979 /home/alexander/robohockey/devel/include/referee/SendDimensions.h
+f4676223b94d9a0d5580b517eaa1e0a9 /home/alexander/robohockey/devel/include/referee/TeamReady.h
+0cc2ff180030bede984f99961c255b62 /home/alexander/robohockey/devel/lib/python2.7/dist-packages/referee/srv/_SendColor.py
+ed8b06a7595043ae8b7febfc362ce111 /home/alexander/robohockey/devel/lib/python2.7/dist-packages/referee/srv/_SendDimensions.py
+834ebcfc50e526430e9bc06564ff54fd /home/alexander/robohockey/devel/lib/python2.7/dist-packages/referee/srv/_TeamReady.py
+a19a6c90062bb466ddcabe7635df01d8 /home/alexander/robohockey/devel/lib/python2.7/dist-packages/referee/srv/__init__.py
+e20e2f97eca4c58d49ba4207aad27ce7 /home/alexander/robohockey/devel/share/common-lisp/ros/referee/srv/SendColor.lisp
+d16911fb5b53b81d6e322c304c0145c5 /home/alexander/robohockey/devel/share/common-lisp/ros/referee/srv/SendDimensions.lisp
+07b4cf1b57b41dc3d446d9be94834730 /home/alexander/robohockey/devel/share/common-lisp/ros/referee/srv/TeamReady.lisp
+dca62b9b0968389c6e82704b1a610053 /home/alexander/robohockey/devel/share/roseus/ros/referee/manifest.l
+be5c3214f3e2b2a19857ed8fd3cb6ccd /home/alexander/robohockey/devel/share/roseus/ros/referee/srv/SendColor.l
+75b79359735bb98a572cc4be5042132c /home/alexander/robohockey/devel/share/roseus/ros/referee/srv/SendDimensions.l
+c794842ff79fbf5fa43b69ec28a90c66 /home/alexander/robohockey/devel/share/roseus/ros/referee/srv/TeamReady.l
+a106a1910ba41966dbd922979cf0bcf5 CMakeFiles/clean_test_results
+88fef746fc488ce89aa14b6f251ea478 game/referee/CMakeFiles/_referee_generate_messages_check_deps_SendColor
+0d90f327d9ae7f19e7b3f46b974f11da game/referee/CMakeFiles/_referee_generate_messages_check_deps_SendDimensions
+635a1ab95ffb29edf7cd7b39f1cea834 game/referee/CMakeFiles/_referee_generate_messages_check_deps_TeamReady
+551e80c8a10cfa852fabbcddb0086b26 game/referee/CMakeFiles/referee_generate_messages_cpp
+551e80c8a10cfa852fabbcddb0086b26 game/referee/CMakeFiles/referee_generate_messages_eus
+551e80c8a10cfa852fabbcddb0086b26 game/referee/CMakeFiles/referee_generate_messages_lisp
+551e80c8a10cfa852fabbcddb0086b26 game/referee/CMakeFiles/referee_generate_messages_py
+61036d5df59eec42951c1c486bcbb248 game/referee/CMakeFiles/referee_node_automoc
+bea3bb10b5e254a630f6745e45a9f498 game/referee/qrc_images.cxx
+56e89d4c3dce16db32135a50e15f1949 game/referee/ui_dialogsettings.h
+d4c63d24a0505f1634ee38274144bb38 game/referee/ui_main_window.h
